@@ -1,0 +1,5 @@
+.env
+/venv/
+*.db
+/assets/
+src/__pycache__/
